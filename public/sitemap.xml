@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Public Pages -->
+  <url>
+    <loc>https://triponic.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://triponic.com/about</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://triponic.com/pricing</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://triponic.com/signin</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://triponic.com/signup</loc>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- App/Dashboard Pages -->
+  <url><loc>https://triponic.com/mytrips</loc></url>
+  <url><loc>https://triponic.com/explore</loc></url>
+  <url><loc>https://triponic.com/events</loc></url>
+  <url><loc>https://triponic.com/feed</loc></url>
+  <url><loc>https://triponic.com/flights</loc></url>
+  <url><loc>https://triponic.com/hotels</loc></url>
+  <url><loc>https://triponic.com/itinerary</loc></url>
+  <url><loc>https://triponic.com/arvr</loc></url>
+</urlset>

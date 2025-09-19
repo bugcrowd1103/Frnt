@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /server/
+Disallow: /api/
+Disallow: /assets/private/
+
+Sitemap: https://triponic.com/sitemap.xml

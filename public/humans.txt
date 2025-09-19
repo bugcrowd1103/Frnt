@@ -1,0 +1,11 @@
+/* TEAM */
+Founder: Pulkit
+Website: https://triponic.com
+Role: CEO & Developer
+
+/* TECHNOLOGY */
+Built with: React, TypeScript, Supabase, OpenAI, Skyscanner API, Tailwind
+Hosting: (Vercel/Netlify/Cloudflare — adjust based on your deploy)
+
+/* THANKS */
+Travelers worldwide who inspire us

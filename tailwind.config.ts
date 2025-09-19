@@ -13,7 +13,7 @@ export default {
       colors: {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
-        // … all your custom colors stay the same
+        // keep your custom colors here
       },
       keyframes: {
         "accordion-down": {
@@ -31,8 +31,5 @@ export default {
       },
     },
   },
-  plugins: [
-    // ❌ removed "tailwindcss-animate"
-    require("@tailwindcss/typography"),
-  ],
+  plugins: [], // ✅ Removed @tailwindcss/typography
 } satisfies Config;

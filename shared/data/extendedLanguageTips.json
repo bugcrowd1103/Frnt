@@ -1,0 +1,252 @@
+{
+  "France": [
+    "Hello = Hello in France",
+    "Thank you = Thank you in France",
+    "Where is the bathroom? = Phrase in France"
+  ],
+  "Italy": [
+    "Hello = Hello in Italy",
+    "Thank you = Thank you in Italy",
+    "Where is the bathroom? = Phrase in Italy"
+  ],
+  "Spain": [
+    "Hello = Hello in Spain",
+    "Thank you = Thank you in Spain",
+    "Where is the bathroom? = Phrase in Spain"
+  ],
+  "Japan": [
+    "Hello = Hello in Japan",
+    "Thank you = Thank you in Japan",
+    "Where is the bathroom? = Phrase in Japan"
+  ],
+  "Thailand": [
+    "Hello = Hello in Thailand",
+    "Thank you = Thank you in Thailand",
+    "Where is the bathroom? = Phrase in Thailand"
+  ],
+  "USA": [
+    "Hello = Hello in USA",
+    "Thank you = Thank you in USA",
+    "Where is the bathroom? = Phrase in USA"
+  ],
+  "Canada": [
+    "Hello = Hello in Canada",
+    "Thank you = Thank you in Canada",
+    "Where is the bathroom? = Phrase in Canada"
+  ],
+  "Australia": [
+    "Hello = Hello in Australia",
+    "Thank you = Thank you in Australia",
+    "Where is the bathroom? = Phrase in Australia"
+  ],
+  "Mexico": [
+    "Hello = Hello in Mexico",
+    "Thank you = Thank you in Mexico",
+    "Where is the bathroom? = Phrase in Mexico"
+  ],
+  "United Kingdom": [
+    "Hello = Hello in United Kingdom",
+    "Thank you = Thank you in United Kingdom",
+    "Where is the bathroom? = Phrase in United Kingdom"
+  ],
+  "Germany": [
+    "Hello = Hello in Germany",
+    "Thank you = Thank you in Germany",
+    "Where is the bathroom? = Phrase in Germany"
+  ],
+  "Netherlands": [
+    "Hello = Hello in Netherlands",
+    "Thank you = Thank you in Netherlands",
+    "Where is the bathroom? = Phrase in Netherlands"
+  ],
+  "Portugal": [
+    "Hello = Hello in Portugal",
+    "Thank you = Thank you in Portugal",
+    "Where is the bathroom? = Phrase in Portugal"
+  ],
+  "Switzerland": [
+    "Hello = Hello in Switzerland",
+    "Thank you = Thank you in Switzerland",
+    "Where is the bathroom? = Phrase in Switzerland"
+  ],
+  "Greece": [
+    "Hello = Hello in Greece",
+    "Thank you = Thank you in Greece",
+    "Where is the bathroom? = Phrase in Greece"
+  ],
+  "Turkey": [
+    "Hello = Hello in Turkey",
+    "Thank you = Thank you in Turkey",
+    "Where is the bathroom? = Phrase in Turkey"
+  ],
+  "UAE": [
+    "Hello = Hello in UAE",
+    "Thank you = Thank you in UAE",
+    "Where is the bathroom? = Phrase in UAE"
+  ],
+  "India": [
+    "Hello = Hello in India",
+    "Thank you = Thank you in India",
+    "Where is the bathroom? = Phrase in India"
+  ],
+  "Indonesia": [
+    "Hello = Hello in Indonesia",
+    "Thank you = Thank you in Indonesia",
+    "Where is the bathroom? = Phrase in Indonesia"
+  ],
+  "Brazil": [
+    "Hello = Hello in Brazil",
+    "Thank you = Thank you in Brazil",
+    "Where is the bathroom? = Phrase in Brazil"
+  ],
+  "South Korea": [
+    "Hello = Hello in South Korea",
+    "Thank you = Thank you in South Korea",
+    "Where is the bathroom? = Phrase in South Korea"
+  ],
+  "Vietnam": [
+    "Hello = Hello in Vietnam",
+    "Thank you = Thank you in Vietnam",
+    "Where is the bathroom? = Phrase in Vietnam"
+  ],
+  "Malaysia": [
+    "Hello = Hello in Malaysia",
+    "Thank you = Thank you in Malaysia",
+    "Where is the bathroom? = Phrase in Malaysia"
+  ],
+  "Egypt": [
+    "Hello = Hello in Egypt",
+    "Thank you = Thank you in Egypt",
+    "Where is the bathroom? = Phrase in Egypt"
+  ],
+  "Morocco": [
+    "Hello = Hello in Morocco",
+    "Thank you = Thank you in Morocco",
+    "Where is the bathroom? = Phrase in Morocco"
+  ],
+  "Austria": [
+    "Hello = Hello in Austria",
+    "Thank you = Thank you in Austria",
+    "Where is the bathroom? = Phrase in Austria"
+  ],
+  "Czech Republic": [
+    "Hello = Hello in Czech Republic",
+    "Thank you = Thank you in Czech Republic",
+    "Where is the bathroom? = Phrase in Czech Republic"
+  ],
+  "Hungary": [
+    "Hello = Hello in Hungary",
+    "Thank you = Thank you in Hungary",
+    "Where is the bathroom? = Phrase in Hungary"
+  ],
+  "Croatia": [
+    "Hello = Hello in Croatia",
+    "Thank you = Thank you in Croatia",
+    "Where is the bathroom? = Phrase in Croatia"
+  ],
+  "Poland": [
+    "Hello = Hello in Poland",
+    "Thank you = Thank you in Poland",
+    "Where is the bathroom? = Phrase in Poland"
+  ],
+  "Singapore": [
+    "Hello = Hello in Singapore",
+    "Thank you = Thank you in Singapore",
+    "Where is the bathroom? = Phrase in Singapore"
+  ],
+  "South Africa": [
+    "Hello = Hello in South Africa",
+    "Thank you = Thank you in South Africa",
+    "Where is the bathroom? = Phrase in South Africa"
+  ],
+  "China": [
+    "Hello = Hello in China",
+    "Thank you = Thank you in China",
+    "Where is the bathroom? = Phrase in China"
+  ],
+  "New Zealand": [
+    "Hello = Hello in New Zealand",
+    "Thank you = Thank you in New Zealand",
+    "Where is the bathroom? = Phrase in New Zealand"
+  ],
+  "Ireland": [
+    "Hello = Hello in Ireland",
+    "Thank you = Thank you in Ireland",
+    "Where is the bathroom? = Phrase in Ireland"
+  ],
+  "Denmark": [
+    "Hello = Hello in Denmark",
+    "Thank you = Thank you in Denmark",
+    "Where is the bathroom? = Phrase in Denmark"
+  ],
+  "Sweden": [
+    "Hello = Hello in Sweden",
+    "Thank you = Thank you in Sweden",
+    "Where is the bathroom? = Phrase in Sweden"
+  ],
+  "Norway": [
+    "Hello = Hello in Norway",
+    "Thank you = Thank you in Norway",
+    "Where is the bathroom? = Phrase in Norway"
+  ],
+  "Argentina": [
+    "Hello = Hello in Argentina",
+    "Thank you = Thank you in Argentina",
+    "Where is the bathroom? = Phrase in Argentina"
+  ],
+  "Chile": [
+    "Hello = Hello in Chile",
+    "Thank you = Thank you in Chile",
+    "Where is the bathroom? = Phrase in Chile"
+  ],
+  "Peru": [
+    "Hello = Hello in Peru",
+    "Thank you = Thank you in Peru",
+    "Where is the bathroom? = Phrase in Peru"
+  ],
+  "Colombia": [
+    "Hello = Hello in Colombia",
+    "Thank you = Thank you in Colombia",
+    "Where is the bathroom? = Phrase in Colombia"
+  ],
+  "Philippines": [
+    "Hello = Hello in Philippines",
+    "Thank you = Thank you in Philippines",
+    "Where is the bathroom? = Phrase in Philippines"
+  ],
+  "Finland": [
+    "Hello = Hello in Finland",
+    "Thank you = Thank you in Finland",
+    "Where is the bathroom? = Phrase in Finland"
+  ],
+  "Belgium": [
+    "Hello = Hello in Belgium",
+    "Thank you = Thank you in Belgium",
+    "Where is the bathroom? = Phrase in Belgium"
+  ],
+  "Israel": [
+    "Hello = Hello in Israel",
+    "Thank you = Thank you in Israel",
+    "Where is the bathroom? = Phrase in Israel"
+  ],
+  "Qatar": [
+    "Hello = Hello in Qatar",
+    "Thank you = Thank you in Qatar",
+    "Where is the bathroom? = Phrase in Qatar"
+  ],
+  "Iceland": [
+    "Hello = Hello in Iceland",
+    "Thank you = Thank you in Iceland",
+    "Where is the bathroom? = Phrase in Iceland"
+  ],
+  "Russia": [
+    "Hello = Hello in Russia",
+    "Thank you = Thank you in Russia",
+    "Where is the bathroom? = Phrase in Russia"
+  ],
+  "Saudi Arabia": [
+    "Hello = Hello in Saudi Arabia",
+    "Thank you = Thank you in Saudi Arabia",
+    "Where is the bathroom? = Phrase in Saudi Arabia"
+  ]
+}

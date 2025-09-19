@@ -4,7 +4,8 @@
 
 @layer base {
   * {
-    @apply border-border;
+    /* ✅ Fixed: replaced invalid border-border */
+    @apply border border-[hsl(var(--border))];
   }
 
   body {
